@@ -1,7 +1,13 @@
 h1 { 
-    color:blue
-    ;
+    border-radius: 10px;
+    border: 10px solid #6495ED;
+    background-color: #BCD2EE;
+    height: 140px;
+    width: 120px;
+    margin: auto;
+    text-align: center;
 }
+
 
 
  
